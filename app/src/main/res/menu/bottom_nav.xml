@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_tuner"
+        android:icon="@drawable/ic_tuner"
+        android:title="@string/nav_tuner" />
+    <item
+        android:id="@+id/nav_metronome"
+        android:icon="@drawable/ic_metronome"
+        android:title="@string/nav_metronome" />
+    <item
+        android:id="@+id/nav_beat"
+        android:icon="@drawable/ic_beat"
+        android:title="@string/nav_beat" />
+    <item
+        android:id="@+id/nav_sprint"
+        android:icon="@drawable/ic_chord"
+        android:title="@string/nav_sprint" />
+</menu>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="coral">#FF6F61</color>
+    <color name="coral_dark">#E05548</color>
+    <color name="teal">#2EC4B6</color>
+    <color name="sun">#FFBF47</color>
+
+    <!-- Surfaces / text (overridden in values-night) -->
+    <color name="cream">#FFF8EF</color>
+    <color name="panel">#FFFFFF</color>
+    <color name="ink">#33302E</color>
+    <color name="ink_soft">#8A837D</color>
+
+    <!-- Semantic -->
+    <color name="good_green">#4CAF50</color>
+    <color name="miss_red">#E53935</color>
+
+    <color name="ic_launcher_background">#2EC4B6</color>
+</resources>

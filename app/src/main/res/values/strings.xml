@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Plinky</string>
+
+    <string name="nav_tuner">Tuner</string>
+    <string name="nav_metronome">Metronome</string>
+    <string name="nav_beat">Beat Hero</string>
+    <string name="nav_sprint">Chord Sprint</string>
+
+    <string name="tuner_hint">Pluck one string at a time · G C E A</string>
+
+    <string name="bpm">BPM</string>
+    <string name="sig_44">4/4</string>
+    <string name="sig_34">3/4</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+    <string name="beat_level_one">On the 1</string>
+    <string name="beat_level_halves">Halves</string>
+    <string name="beat_level_all">Every beat</string>
+    <string name="beat_level_shuffle">Shuffle</string>
+    <string name="timing_offset">Mic timing offset (ms)</string>
+    <string name="beat_hint">Strum on the glowing beats!</string>
+
+    <string name="sprint_hint">Strum once per chord, then switch. Go!</string>
+    <string name="plinks_lifetime">Lifetime plinks: %1$d</string>
+    <string name="best_none">Best: —</string>
+
+    <string name="mic_needed">Plinky needs the microphone to hear your uke. Enable it in Settings.</string>
+</resources>
